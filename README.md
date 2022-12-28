@@ -36,6 +36,8 @@ My current job includes ensuring automated & repeatable deployment on (hundreds 
 
 ## :muscle: Personal projects
 
+I am spending some time on the following two projects:
+
 - [My DevOps stack automated installation](https://github.com/lamvng/my-devops-tools): An automated solution to set up my workstation by installing all the technical stack quickly.
 - [NodeJS from scratch](https://github.com/lamvng/nodejs-from-scratch): A part of my job includes deploying containerized NodeJS applications. I would love to actually learn the language to better read the source code & documentation.
 
