@@ -17,6 +17,7 @@ My current job includes ensuring automated & repeatable deployment on (hundreds 
 - AWS
 - Gitlab CI
 - Ansible
+- SQL
 - Monitoring: Prometheus & Grafana
 - Python
   - API writing
