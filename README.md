@@ -2,7 +2,7 @@
 
 Hello!
 
-I am a DevOps engineer. On a daily basis, I work with automation, end-to-end CI/CD pipeline, AWS, programming & scripts.
+I am a DevOps engineer. On a daily basis, I work with deployment automation, end-to-end CI/CD pipeline, AWS, programming & scripts.
 
 My current job includes ensuring automated & repeatable deployment on (hundreds of) mostly isolated devices along with their cloud servers, in a connection-limited & resource-scarce context.
 
