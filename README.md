@@ -37,7 +37,7 @@ My current job includes ensuring automated & repeatable deployment on (hundreds 
 
 ## :muscle: Personal projects
 
-I am spending some time on the following two projects:
+I am spending some time on the following projects:
 
 - [DevOps Homelab](https://github.com/lamvng/home-lab): My homelab setup to host my simple application, including: Infrastructure & cluster management, end-to-end CI/CD pipeline, service mesh & secret management, observability & monitoring.
 - [NodeJS from scratch](https://github.com/lamvng/nodejs-from-scratch): A part of my job includes deploying containerized NodeJS applications. I would love to actually learn the language to better read the source code & documentation.
