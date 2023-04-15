@@ -39,7 +39,7 @@ My current job includes ensuring automated & repeatable deployment on (hundreds 
 
 I am spending some time on the following two projects:
 
-- [DevOps Homelab]: My homelab setup to host my simple application, including: Infrastructure & cluster management, end-to-end CI/CD pipeline, service mesh & secret management, observability & monitoring.
+- [DevOps Homelab](https://github.com/lamvng/home-lab): My homelab setup to host my simple application, including: Infrastructure & cluster management, end-to-end CI/CD pipeline, service mesh & secret management, observability & monitoring.
 - [NodeJS from scratch](https://github.com/lamvng/nodejs-from-scratch): A part of my job includes deploying containerized NodeJS applications. I would love to actually learn the language to better read the source code & documentation.
 - [My DevOps stack automated installation](https://github.com/lamvng/my-devops-tools): An automated solution to set up my workstation by installing all the technical stack quickly.
 
